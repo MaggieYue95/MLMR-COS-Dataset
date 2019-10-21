@@ -16,7 +16,7 @@ The MLMR-COS dataset is established for the development of co-segmentation. We d
 3) Teams must notify the maintainers of this site about any publication that is (partly) based on the data on this site, in order for us to maintain a list of publications associated with the MLMR-COS dataset.
 
 # Download
-You can download MLMR-COS dataset from this link: https://pan.baidu.com/s/1R4Oy-orS1Utd4LtEgt0liw&shfl=shareset (Extract code: 68kt) 
+You can download MLMR-COS dataset from this link: 
 
 Notice that you are not allowed to download these data if you do not agree with the above rules.
 
